@@ -1,7 +1,4 @@
 About Me...
 ===
 
-well,
-I am a guy.
-
-hmm, that's it i guess.
+A student, maybe learning something about web dev i guess.
