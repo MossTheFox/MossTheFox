@@ -1,13 +1,14 @@
 About Me...
 ===
 
-A student, maybe learning something about web dev i guess.
+Always learning new things.
 
-* JavaScript ✔
+## Basic
+
+* JavaScript/TypeScript ✔
 * React ✔
-  * PWA + TWA
-  * (MUI is awsome)
-* Node.js + Express + MongoDB ✔
-* TypeScript ✔
+  * PWA Apps
+* Node.js + Express ✔
+  * MongoDB, SQLite3 (with TypeORM for simplicity) for db
 
 [app.mxowl.com](https://app.mxowl.com/) (a pwa created for fun)
