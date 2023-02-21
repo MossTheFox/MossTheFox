@@ -3,6 +3,8 @@ About Me...
 
 Always learning new things.
 
+Contact: mxowl@outlook.com
+
 ## Basic
 
 * JavaScript / TypeScript ✔
@@ -12,6 +14,18 @@ Always learning new things.
 * Node.js + Express ✔
   * MongoDB, SQLite3 (with TypeORM for simplicity) for db
 
-[img.mowl.cc](https://img.mowl.cc/) (A image convertion web tool powered by wasm-vips)
+## Some Web Apps
 
-[app.mxowl.com](https://app.mxowl.com/) (A old example PWA created for fun)
+I'm not calling these 'portfolio' since these doesn't seems to be so impressive.
+
+- [img.mowl.cc](https://img.mowl.cc/) (An image converting web tool powered by wasm-vips)
+- [app.mxowl.com](https://app.mxowl.com/) (An old example PWA created for fun)
+
+## Other Things
+
+There are also some projects that are not opened to the public (yet), mostly because these are for personal use only.
+
+Let me know if you want some of these to have a published version.
+
+- (Node.js) Telegram notification bot for FurAffinity, support all six types of notifications for the nav bar.
+- (Node.js) QQ bot for analysing and notify improper contents in groups, with some simple interactions (send stickers, paint [congratulations post](https://witnessbot.mxowl.com/services/congratulations/) etc.)
