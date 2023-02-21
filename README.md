@@ -27,5 +27,7 @@ There are also some projects that are not opened to the public (yet), mostly bec
 
 Let me know if you want some of these to have a published version.
 
-- (Node.js) Telegram notification bot for FurAffinity, support all six types of notifications for the nav bar.
-- (Node.js) QQ bot for analysing and notify improper contents in groups, with some simple interactions (send stickers, paint [congratulations post](https://witnessbot.mxowl.com/services/congratulations/) etc.)
+- (Node.js) Telegram notification bot for FurAffinity, support all six types of notifications on the nav bar.
+  - A copy of the notification detail will be stored locally (SQLite) and send along with the notification message.
+- (Node.js) QQ bot for analysing and notify improper contents in groups, with some simple interactions (send stickers, paint [congratulations post](https://witnessbot.mxowl.com/services/congratulations/) etc.).
+  - Currently based on [mirai](https://github.com/mamoe/mirai). Planning to migrate to [OICQ](https://github.com/takayama-lily/oicq).
